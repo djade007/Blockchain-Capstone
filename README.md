@@ -31,12 +31,12 @@ test
 ```
 
 ### Result
-- SolnSquareVerifier [0xDBB7E9F92f0Ec78EFb71D12D3ea13E587f104aF1](https://rinkeby.etherscan.io/address/0xDBB7E9F92f0Ec78EFb71D12D3ea13E587f104aF1])
-- Verifier [0xB7DAA69A2A42771C907147EDBB29A140d7ba7460](https://rinkeby.etherscan.io/address/0xB7DAA69A2A42771C907147EDBB29A140d7ba7460])
-- Migrations [0xaa8FfC4d3d32B12fC9bd211C79D0148BD94F22A9](https://rinkeby.etherscan.io/address/0xaa8FfC4d3d32B12fC9bd211C79D0148BD94F22A9])
+- SolnSquareVerifier [0xDBB7E9F92f0Ec78EFb71D12D3ea13E587f104aF1](https://rinkeby.etherscan.io/address/0xDBB7E9F92f0Ec78EFb71D12D3ea13E587f104aF1)
+- Verifier [0xB7DAA69A2A42771C907147EDBB29A140d7ba7460](https://rinkeby.etherscan.io/address/0xB7DAA69A2A42771C907147EDBB29A140d7ba7460)
+- Migrations [0xaa8FfC4d3d32B12fC9bd211C79D0148BD94F22A9](https://rinkeby.etherscan.io/address/0xaa8FfC4d3d32B12fC9bd211C79D0148BD94F22A9)
 
-- [Contract ABI](https://github.com/djade007/Blockchain-Capstone/blob/master/contract-abi.json])
-- Market Place [https://rinkeby.opensea.io/assets/great-token-v2](https://rinkeby.opensea.io/assets/great-token-v2])
+- [Contract ABI](https://github.com/djade007/Blockchain-Capstone/blob/master/contract-abi.json)
+- Market Place [https://rinkeby.opensea.io/assets/great-token-v2](https://rinkeby.opensea.io/assets/great-token-v2)
 
 ## Project Environment
 

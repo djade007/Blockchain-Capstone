@@ -10,6 +10,16 @@ Clone this repository:
 git clone https://github.com/djade007/Blockchain-Capstone
 ```
 
+Run npm install
+```
+npm install
+```
+
+cd into the contracts directory
+```
+cd eth-contracts
+```
+
 Open the truffle develop console
 ```
 truffle develop

@@ -38,6 +38,13 @@ test
 - [Contract ABI](https://github.com/djade007/Blockchain-Capstone/blob/master/contract-abi.json)
 - Market Place [https://rinkeby.opensea.io/assets/great-token-v2](https://rinkeby.opensea.io/assets/great-token-v2)
 
+### 5 Transactions from another account
+- https://rinkeby.etherscan.io/tx/0x2f0ec6012023acabead5d2d3c47de8b57651479621890d64c26503762b8e8f55
+- https://rinkeby.etherscan.io/tx/0xb7d50e448016df454617b11fbebd81bd33f17f6fd7d940d4efca0d44315b1c0e
+- https://rinkeby.etherscan.io/tx/0x9884948bac0b4d5c126e95fedcb817cb5309701de2d82bad759ad43e5c3a7924
+- https://rinkeby.etherscan.io/tx/0xfe4438c8eb03b42ddeb0e937b66e652b48332549e99748c8b1362133ed2a1796
+- https://rinkeby.etherscan.io/tx/0x694ead4c5d6ac03107a45544fb23f164c96c98ad03e11033f7dfff65b3b4bd62
+
 ## Project Environment
 
 - Truffle Version: 5.1.49
